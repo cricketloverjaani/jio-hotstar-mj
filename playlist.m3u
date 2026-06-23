@@ -1,33 +1,33 @@
 #EXTM3U
 # Title: SOUTH AFRICA VS INDIA
-# Updated: 2026-06-23 10:57:43
+# Updated: 2026-06-23 11:00:51
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5998/1782061635998-b" group-title="SOUTH AFRICA VS INDIA", HINDI
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/hin/v2/4k/1782070417737/hls/plain/master-pBTXjSsOhPt3LTVf_4k.m3u8?hdnea=st=1782192364~exp=1782192964~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/hin/v2/4k/1782070417737/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=25.02.15.2-ut=paid-~hmac=79b39f7029aee55709572ede98b27ea7d3b4b242d921451738f2a0f7bb6581f1
+https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/hin/v2/4k/1782070417737/hls/plain/master-pBTXjSsOhPt3LTVf_4k.m3u8?hdnea=st=1782192553~exp=1782193153~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/hin/v2/4k/1782070417737/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=24.12.10.1-ut=paid-~hmac=2a6f0da973b2c791f2d94cdf15fd332cfdc24f23fa1895b665ebffc0cca25761
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5998/1782061635998-b" group-title="SOUTH AFRICA VS INDIA", ENGLISH
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/eng/v2/4k/1782072781455/hls/plain/master-y0G0FqtoynoFrB9V_4k.m3u8?hdnea=st=1782192364~exp=1782192964~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/eng/v2/4k/1782072781455/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=24.03.05.0-ut=paid-~hmac=e956759769c42f617a4a97180177fbfc7f30f990dc880cb1d6e457c1d9734851
+https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/eng/v2/4k/1782072781455/hls/plain/master-y0G0FqtoynoFrB9V_4k.m3u8?hdnea=st=1782192553~exp=1782193153~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/eng/v2/4k/1782072781455/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=24.08.05.0-ut=paid-~hmac=cb9e7cffec6cec06b2f3e68b8f289fc6bf674470abef71046b8dce187ee2e6cb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5998/1782061635998-b" group-title="SOUTH AFRICA VS INDIA", TAMIL
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tam/v1/4k/1782066484803/hls/plain/master-0HQFI0XCp8YmPm4f_4k.m3u8?hdnea=st=1782192364~exp=1782192964~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tam/v1/4k/1782066484803/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=24.06.28.1-ut=paid-~hmac=cffbf750db8a8a31053ff5409f3575c08fe405e6809d262dd8e0a03ceeb92217
+https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tam/v1/4k/1782066484803/hls/plain/master-0HQFI0XCp8YmPm4f_4k.m3u8?hdnea=st=1782192553~exp=1782193153~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tam/v1/4k/1782066484803/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=25.03.10.1-ut=paid-~hmac=21fd22fa6f80c9bb510c475355a6884abb4640f3de72066dee11d7d1fffb7796
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5998/1782061635998-b" group-title="SOUTH AFRICA VS INDIA", TELUGU
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tel/v1/4k/1782066588375/hls/plain/master-NGJ00l5aEaS7vcBv_4k.m3u8?hdnea=st=1782192365~exp=1782192965~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tel/v1/4k/1782066588375/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=26.02.22.0-ut=paid-~hmac=e4524206501251ab51afbb8e21bf11902c1626820c40f0bd4c3ba6f39db53812
+https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tel/v1/4k/1782066588375/hls/plain/master-NGJ00l5aEaS7vcBv_4k.m3u8?hdnea=st=1782192553~exp=1782193153~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/tel/v1/4k/1782066588375/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=25.12.22.0-ut=paid-~hmac=b848e1d80d2ae5468d99409157fd4c9d4b51fd5bff95cbea18c3f4cbf34c50fb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5998/1782061635998-b" group-title="SOUTH AFRICA VS INDIA", KANNADA
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/kan/v1/4k/1782066154549/hls/plain/master-475O4HYtG7HyOWOF_4k.m3u8?hdnea=st=1782192365~exp=1782192965~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/kan/v1/4k/1782066154549/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=25.08.22.0-ut=paid-~hmac=e76739c9dc80b42aa0214e4e46f824a91c3a09b53df1f6077020027f4bb56f5a
+https://hssportsprepack.akamaized.net/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/kan/v1/4k/1782066154549/hls/plain/master-475O4HYtG7HyOWOF_4k.m3u8?hdnea=st=1782192553~exp=1782193153~acl=/videos/cricket/inallow-icct20wc-2026/vod/1540071933/in/kan/v1/4k/1782066154549/hls/plain/*~data=ip=HTYxlKvOkZESmNJCLDTaVYWQe4Mp0gI1onHJLqah7UYiReMc52PeUpP-userid=JR4mUmQ4VMYazAXHVCnDvFCjxsk5jgKP8WgVLbpS5zG8-did=uNRc40sFTyxl0JXC9cb5lvCpYYmc1owj1llz5b5qqFwK-cc=in-de=5-pl=androidtv-ap=24.01.05.0-ut=paid-~hmac=9fdf38a4f83a7f14f07fe298b0abc484d5adba5061c3bf21978523c7abb7e5af
