@@ -1,0 +1,9 @@
+#EXTM3U
+# Title: SRI LANKA VS IRELAND
+# Updated: 2026-06-23 21:52:55
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7640/1782135807640-b" group-title="SRI LANKA VS IRELAND", ENGLISH 4K ADSFREE [HDR]
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live11p.hotstar.com/cmaf/live/2122908/inallow-iccwt20wc-2026/eng/1540071872/15mindvrm02c84ffc21df264e7281ea04993024b39523june2026/master_a.m3u8?a=s&asn_id=ffets&content_id=1540071872&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-iccwt20wc-2026&si_match_id=722953&hdnea=exp=1782232320~acl=/cmaf/live/2122908/inallow-iccwt20wc-2026/eng/1540071872/15mindvrm02c84ffc21df264e7281ea04993024b39523june2026/master_a~ttl=1800~type=paid~data=ip=AMEbij9sCSJgZf0Q1JZYAGoDMJlHEtXxFIzzBJhaZpsLSWCL4WI0Kkw-userid=Ni1GD7zF6QFs4T5ED6GNKdfWzUIEnR3OMaxJwWtSSVMN-did=XxKS3wWBpzrwFT7VsXCgk0aUYdvpHYE8ivKUY7Nk9tMh-cc=in-de=6-pl=androidtv-ap=24.11.10.1-ut=paid-~hmac=fd7eb9d54393f7cf87e5de8393bb49f0b82dc92ed75fc96b9bffa78787f8e4e0
