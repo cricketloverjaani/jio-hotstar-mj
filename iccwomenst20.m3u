@@ -1,0 +1,18 @@
+#EXTM3U
+# Title: NEW ZEALAND VS SCOTLAND
+# Updated: 2026-06-23 15:38:17
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7381/1782134837381-b" group-title="NEW ZEALAND VS SCOTLAND", ENGLISH SDR
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live11p.hotstar.com/cmaf/live/2122908/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a.m3u8?a=s&asn_id=ffets&content_id=1540071869&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dsdr&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-iccwt20wc-2026&si_match_id=722952&hdnea=exp=1782209813~acl=/cmaf/live/2122908/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a~ttl=1800~type=paid~data=ip=lKKT3Qc8Q5uhoHhRTYvDKqKrAtyLOFXGMd95H8NRjo7DpHLh4bX0xUw-userid=tMzVbbvnp417gGTgm5bHF33WBTsN3rjxTgMKJagLleD7-did=BbvuSwXwZhUpuPhB62ArotTQSWYm05roKsvSRvIc13ES-cc=in-de=5-pl=androidtv-ap=24.07.28.1-ut=paid-~hmac=2a97630eabcdffa223bf0cdaa8e1313db49626658df2efdafe2ba7b382a90a33
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7381/1782134837381-b" group-title="NEW ZEALAND VS SCOTLAND", ENGLISH [HDR]
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+http://live11p.hotstar.com/cmaf/live/2122907/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a.m3u8?a=s&asn_id=ffets&content_id=1540071869&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dhdr10&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-iccwt20wc-2026&si_match_id=722952&hdnea=exp=1782209771~acl=/cmaf/live/2122907/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a~ttl=1800~type=paid~data=ip=lKKT3Qc8Q5uhoHhRTYvDKqKrAtyLOFXGMd95H8NRjo7DpHLh4bX0xUw-userid=tMzVbbvnp417gGTgm5bHF33WBTsN3rjxTgMKJagLleD7-did=BbvuSwXwZhUpuPhB62ArotTQSWYm05roKsvSRvIc13ES-cc=in-de=5-pl=androidtv-ap=26.05.22.0-ut=paid-~hmac=0f129ea87b8364f2648bdb5229ff112ca388a3906adb8e2a6957252b5bcb68de
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7381/1782134837381-b" group-title="NEW ZEALAND VS SCOTLAND", ENGLISH [HDR]
+http://live11p.hotstar.com/cmaf/live/2122907/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a.m3u8?a=s&asn_id=ffets&content_id=1540071869&language=english&layer=master&media_codec=codec%3Dh265%3Adr%3Dhdr10&playback_host=live11p-pristine-akt.cdn.hotstar.com&playback_proto=http&random=inallow-iccwt20wc-2026&si_match_id=722952&hdnea=exp=1782209492~acl=/cmaf/live/2122907/inallow-iccwt20wc-2026/eng/1540071869/15mindvrm01ea621bb0f5fc42b2a45deb49ba4f563923june2026/master_a~ttl=1800~type=paid~data=ip=lKKT3Qc8Q5uhoHhRTYvDKqKrAtyLOFXGMd95H8NRjo7DpHLh4bX0xUw-userid=tMzVbbvnp417gGTgm5bHF33WBTsN3rjxTgMKJagLleD7-did=BbvuSwXwZhUpuPhB62ArotTQSWYm05roKsvSRvIc13ES-cc=in-de=5-pl=androidtv-ap=24.09.28.1-ut=paid-~hmac=f8130a900434eb72332a7cd7be67bf806ddd8cc25ffa21ea0bd42f406b0a14f2
