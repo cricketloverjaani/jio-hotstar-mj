@@ -1,22 +1,28 @@
 #EXTM3U
 # Multi-Event Playlist (2 events)
 # Playlist Created By @jaani630
-# Generated: 2026-07-19 15:28:45
+# Generated: 2026-07-19 18:25:56
 
-#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9821/1784380459821-b" group-title="Genid Yanam Royals vs Karaikal Kniights By @jaani630", ENGLISH @jaani630
+#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2295/1784377932295-b" group-title="Dempo Goa Challengers vs PBG Pune Jaguars By @jaani630", ENGLISH @jaani630
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live07.hotstar.com/hls/live/2034653/inallow-ppl-2026/eng/1540073849/15mindvrm01b71703fb2e8941a5afaca6a23a869da919july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784541539~acl=%2f*~id=341a314a994f3a4d63dac9cbb14bfbf4~data=hdntl~hmac=945ccdda7be09aa8916300836c5254a14dbaa773e974eae46979776a7db62400|Cookie=hdntl=exp=1784541539~acl=%2f*~id=341a314a994f3a4d63dac9cbb14bfbf4~data=hdntl~hmac=945ccdda7be09aa8916300836c5254a14dbaa773e974eae46979776a7db62400&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://live07.hotstar.com/hls/live/2034629/inallow-utt-2026/eng/1540073705/15mindvrm01370d8a1437064d78bfea6f5918fb1a7919july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f|Cookie=hdntl=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 
-#EXTINF:-1 tvg-name="TAMIL By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9821/1784380459821-b" group-title="Genid Yanam Royals vs Karaikal Kniights By @jaani630", TAMIL @jaani630
+#EXTINF:-1 tvg-name="HINDI By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2295/1784377932295-b" group-title="Dempo Goa Challengers vs PBG Pune Jaguars By @jaani630", HINDI @jaani630
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live07.hotstar.com/hls/live/2034657/inallow-ppl-2026/tam/1540073849/15mindvrm01b71703fb2e8941a5afaca6a23a869da919july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784541539~acl=%2f*~id=341a314a994f3a4d63dac9cbb14bfbf4~data=hdntl~hmac=945ccdda7be09aa8916300836c5254a14dbaa773e974eae46979776a7db62400|Cookie=hdntl=exp=1784541539~acl=%2f*~id=341a314a994f3a4d63dac9cbb14bfbf4~data=hdntl~hmac=945ccdda7be09aa8916300836c5254a14dbaa773e974eae46979776a7db62400&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://live07.hotstar.com/hls/live/2034637/inallow-utt-2026/hin/1540073705/15mindvrm01370d8a1437064d78bfea6f5918fb1a7919july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f|Cookie=hdntl=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 
-#EXTINF:-1 tvg-name="HINDI By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4372/1784375584372-b" group-title="Assam Premier League 2026: Player Auction By @jaani630", HINDI @jaani630
+#EXTINF:-1 tvg-name="TAMIL By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2295/1784377932295-b" group-title="Dempo Goa Challengers vs PBG Pune Jaguars By @jaani630", TAMIL @jaani630
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live07.hotstar.com/hls/live/2034625/inallow-ftb-2025/hin/1540074217/15mindvrm01fcaa9fd75f12460fa7b542ac290c1cab19july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784541539~acl=%2f*~id=f0ae25f27901d743a4817d5ab002f855~data=hdntl~hmac=42e8cc52e98ebffb49ac1f1e59e1d93370826d0c0853bd68f1e9b400b97b7639|Cookie=hdntl=exp=1784541539~acl=%2f*~id=f0ae25f27901d743a4817d5ab002f855~data=hdntl~hmac=42e8cc52e98ebffb49ac1f1e59e1d93370826d0c0853bd68f1e9b400b97b7639&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://live07.hotstar.com/hls/live/2034633/inallow-utt-2026/tam/1540073705/15mindvrm01370d8a1437064d78bfea6f5918fb1a7919july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f|Cookie=hdntl=exp=1784552169~acl=%2f*~id=5664c9b9205a475261744fd48c94a581~data=hdntl~hmac=7579c655965da9facdddea73b86c033b475b3aea9ed5203913f2c0bcc12c038f&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+
+#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3259/1784383643259-b" group-title="MXGP: Great Britain By @jaani630", ENGLISH @jaani630
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://live07.hotstar.com/hls/live/2009194/inallow-mxgp-26/eng/1540074258/15mindvrm01a6d0d118f00049f9a1d57b4ef2ff4a3519july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784552169~acl=%2f*~id=b8deec1eaa80491ef38496b6d1865bfd~data=hdntl~hmac=09d2775dd4be714191a78a44a7334ade47818edb4ff0000b1d67738e208c0831|Cookie=hdntl=exp=1784552169~acl=%2f*~id=b8deec1eaa80491ef38496b6d1865bfd~data=hdntl~hmac=09d2775dd4be714191a78a44a7334ade47818edb4ff0000b1d67738e208c0831&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
