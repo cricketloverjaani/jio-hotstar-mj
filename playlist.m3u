@@ -1,16 +1,16 @@
 #EXTM3U
 # Multi-Event Playlist (2 events)
 # Playlist Created By @jaani630
-# Generated: 2026-07-22 11:30:12
+# Generated: 2026-07-24 09:09:10
 
-#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7887/1784688337887-b" group-title="BWF China Open: Round of 32, Court 1 By @jaani630", ENGLISH @jaani630
+#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5057/1784818385057-b" group-title="BWF China Open: Quarter-finals, Court 1 By @jaani630", ENGLISH @jaani630
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540074166/15mindvrm016698ea3c093146b4823d1fe6549c91b522july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784786425~acl=%2f*~id=f6af008c560ceff34403788c5ca9c3d2~data=hdntl~hmac=660e0200395b718c9fd7767cdf7e2e98062715202cdebb4687a5de8ddebe43db|Cookie=hdntl=exp=1784786425~acl=%2f*~id=f6af008c560ceff34403788c5ca9c3d2~data=hdntl~hmac=660e0200395b718c9fd7767cdf7e2e98062715202cdebb4687a5de8ddebe43db&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540074178/15mindvrm01d24ce94594af4f35bc2ea4d1fd90be9024july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784950763~acl=%2f*~id=3bd366581a06cc0b0933a110e8a2bee5~data=hdntl~hmac=55c6bcb94879b35ce10371b1b453be151090df8208bfbe7a6134a2c720a96d1a|Cookie=hdntl=exp=1784950763~acl=%2f*~id=3bd366581a06cc0b0933a110e8a2bee5~data=hdntl~hmac=55c6bcb94879b35ce10371b1b453be151090df8208bfbe7a6134a2c720a96d1a&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 
-#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2426/1784665182426-b" group-title="BWF China Open: Round of 32, Court 2 By @jaani630", ENGLISH @jaani630
+#EXTINF:-1 tvg-name="ENGLISH By @jaani630" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9049/1784818299049-b" group-title="BWF China Open: Quarter-finals, Court 2 By @jaani630", ENGLISH @jaani630
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540074169/15mindvrm02a8fd1dccff764c989490c4d08aa3cd0c22july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784786425~acl=%2f*~id=786be631dfcafe7e554a6d19e1c5e766~data=hdntl~hmac=2869aa8881aea17725cc0fee527bc461ac4b26b07ef6e83b475cfad3c19c4f57|Cookie=hdntl=exp=1784786425~acl=%2f*~id=786be631dfcafe7e554a6d19e1c5e766~data=hdntl~hmac=2869aa8881aea17725cc0fee527bc461ac4b26b07ef6e83b475cfad3c19c4f57&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540074181/15mindvrm0227b03086fffa4471b738983d9bb588d224july2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1784950763~acl=%2f*~id=7218e801d000e1de294b7548a6641b00~data=hdntl~hmac=c03305833a2ae482781f4fdca46518317c3be8ddeb6ebb8025b2b7c0eea37d65|Cookie=hdntl=exp=1784950763~acl=%2f*~id=7218e801d000e1de294b7548a6641b00~data=hdntl~hmac=c03305833a2ae482781f4fdca46518317c3be8ddeb6ebb8025b2b7c0eea37d65&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
