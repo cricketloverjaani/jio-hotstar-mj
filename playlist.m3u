@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="4002" tvg-chno="28" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://pixel.disco.nowtv.com/logo/skychb_4002_lightnow/LOGO_CHANNEL_DARK/3840/2160?language=en-GB&proposition=NOWOTT" group-title="Sports",Sky Sports Main Event UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ERxf4kOHpoymaJzT0P30gw","k":"c4lRTnK8L_9tY5mDHq4f9g"},{"kty":"oct","kid":"ERzuEIs4B8ZTFe_ABUxIIw","k":"vS6aJp3hIUUM1rabE6RFLg"}],"type":"temporary"}
+https://g006-lin-gb-cmaf-prd-ak.pcdn05.cssott02.com/v~a-0-0_e~1795147113_s~adc02f5b-ddae-4c24-a50e-4fb19522dad8_u~53bc58aa9d8ca3ddec646f0809ff6499eb746c7f6ad90194c19c4b3ade844d69_l~70_x~69ee1d19d872468732bf0fbf3a0592d36f6753eed7baac35d9536b640a424a13/nowgblin2/Content/CMAF_CTR_D1/Live/channel(cIcNcwTROc5YjYjSp5XklYDU)/master.mpd
